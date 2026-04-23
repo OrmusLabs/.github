@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/OrmusLabs/.github/blob/main/main/profile/ormus-logo-sq.jpg?raw=true" alt="Ormus Labs Logo" width="250" style="border-radius: 60px;" />
+  <img src="https://github.com/OrmusLabs/.github/blob/main/profile/ormus-logo-sq.jpg?raw=true" alt="Ormus Labs Logo" width="250" style="border-radius: 60px;" />
 
   <h1>Welcome to Ormus Labs 🛡️</h1>
   <p><b>The Strategic Gateway for Enterprise Authorization</b></p>
@@ -49,5 +49,5 @@ Historically, the Kingdom of Ormus was a powerful maritime empire located on **O
 We chose this name because an enterprise authorization server serves the exact same purpose. It is the ultimate strategic gateway for your infrastructure—a single, highly fortified chokepoint where every user request is inspected, evaluated, and either securely routed or blocked.
 
 <div align="center">
-  <img src="https://github.com/OrmusLabs/.github/blob/main/main/profile/ormus-img.jpg?raw=true" alt="Ormus Labs Logo" width="100%" style="border-radius: 15px;"/>
+  <img src="https://github.com/OrmusLabs/.github/blob/main/profile/ormus-img.jpg?raw=true" alt="Ormus Labs Logo" width="100%" style="border-radius: 15px;"/>
 </div>
